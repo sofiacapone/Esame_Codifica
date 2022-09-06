@@ -1,0 +1,246 @@
+ <zone ulx="540" uly="2276" lrx="2024" lry="2376" xml:id="pag17_line20" />
+            <zone ulx="539" uly="2384" lrx="1995" lry="2456" xml:id="pag17_line21"/>
+            <zone ulx="552" uly="2482" lrx="2017" lry="2559" xml:id="pag17_line22"/>
+            <zone ulx="552" uly="2604" lrx="2022" lry="2678" xml:id="pag17_line23"/>
+            <zone ulx="555" uly="2716" lrx="1999" lry="2798" xml:id="pag17_line24"/>
+            <zone ulx="572" uly="2834" lrx="2022" lry="2915" xml:id="pag17_line25"/>
+            <zone ulx="570" uly="2934" lrx="1997" lry="3006" xml:id="pag17_line26"/>
+            <zone ulx="577" uly="3037" lrx="2016" lry="3105" xml:id="pag17_line27"/>
+            <zone ulx="91" uly="3068" lrx="543" lry="3218" xml:id="pag17_note3"/><!--Nota a margine-->
+            <zone ulx="569" uly="3142" lrx="2012" lry="3213" xml:id="pag17_line28"/>
+            <!--QUI CONTINUARE-->
+        </surface>
+        <!--Prolusioni 3, pag 17 retro-->
+        <surface xml:id="pag17_retro" n="2">
+            <graphic url='pag17_retro.jpg' width='1990px' height='3145px' />
+            <zone ulx="3" uly="-4" lrx="1983" lry="3136" xml:id="Pag17_Retro" />
+        </surface>
+        <!--Prolusioni 3, pag 18-->
+        <surface xml:id="prol3_pag18" n="1">
+            <graphic url='prol3_pag18.jpg' width='2056.86666px' height='3202.86666px' />
+            <zone ulx="132" uly="20" lrx="2036" lry="3193" xml:id="pag18_intera" />
+            <zone ulx="397" uly="93" lrx="1972" lry="282"  xml:id="pag18_line1"/>
+            <zone ulx="397" uly="302" lrx="2024" lry="407" xml:id="pag18_line2"/>
+            <zone ulx="411" uly="423" lrx="2041" lry="515" xml:id="pag18_line3"/>
+            <zone ulx="387" uly="538" lrx="2017" lry="608" xml:id="pag18_line4"/>
+            <zone ulx="405" uly="626" lrx="1979" lry="694" xml:id="pag18_line5"/>
+            <zone ulx="388" uly="727" lrx="1977" lry="793" xml:id="pag18_line6"/>
+            <zone ulx="33" uly="746" lrx="339" lry="1020"  xml:id="pag18_note3"/><!--Nota a margine-->
+            <zone ulx="447" uly="837" lrx="2010" lry="901" xml:id="pag18_line7"/>
+            <zone ulx="414" uly="943" lrx="1968" lry="995" xml:id="pag18_line8"/>
+        </surface>
+        <!--Prolusioni 3, pag 18 retro-->
+        <surface xml:id="pag18_retro" n="2">
+            <graphic url='pag18_retro.jpg' width='2031.6px' height='3203.6px' />
+            <zone ulx="12" uly="19" lrx="1998" lry="3188" xml:id="Pag18_Retro" />  
+        </surface>
+    </facsimile>
+
+<!--QUI CONTINUARE --> est <term ref="#commun">commun</term> 
+                        <lb xml:id="pag_17_line_20" n="20" facs="#pag17_line20"/>
+                        au <term ref="#dsav"><choice><orig resp="#FDS"><abbr>dial.</abbr></orig><reg resp="#EF"><expan><ex>ecte</ex></expan></reg></choice> savoyard</term>, et à tout le <name type="place">Sud de la France;</name>
+                        </ab>
+                        <ab type="pericope" xml:id="pag_17_per_6" n="6">
+                        <lb xml:id="pag_17_line_21" n="21" facs="#pag17_line21"/>
+                        il n'y a donc là aucun <term ref="#caractère">caractère</term> <term ref="#distinctifs">distinctif</term>
+                        </ab>
+                        <ab type="pericope" xml:id="pag_17_per_7" n="7">
+                        <lb xml:id="pag_17_line_22" n="22" facs="#pag17_line22"/>
+                        <del rend="overstrike"><gap reason="illegible" quantity="1"></gap></del> je remarque alors que le <name type="place">Sud de la France</name>
+                        <lb xml:id="pag_17_line_23" n="23" facs="#pag17_line23"/>
+                        n'a pas changé le <term ref="#groupe">groupe</term> <emph rend="underline">ça</emph> <term ref="#latin" type="glottonimo">latin</term> en <mentioned rend="underline">tša</mentioned>,  
+                        <lb xml:id="pag_17_line_24" n="24" facs="#pag17_line24"/>
+                        <mentioned rend="underline">ša</mentioned> ou autre chose, <add hand="#FDS" place="above"><mentioned xml:id="lat" xml:lang="lat" rend="underline">canto</mentioned></add>, tandis qu'en <term ref="#savoyard" type="glottonimo">savoyard</term>
+                        <lb xml:id="pag_17_line_25" n="25" facs="#pag17_line25"/>
+                        il y a changement: <mentioned xml:id="sav3" xml:lang="sav" rend="underline">θãtå;</mentioned></ab><ab type="pericope" xml:id="pag_17_per_8" n="8">ce <term ref="#caractère">caractère</term> sera-
+                        <lb xml:id="pag_17_line_26" n="26" facs="#pag17_line26"/>
+                        t-il <choice><orig resp="#FDS"><abbr>meill:</abbr></orig><reg resp="#EF"><expan><ex>eur</ex></expan></reg></choice>;</ab><ab type="pericope" xml:id="pag_17_per_9" n="9"> nullement parce que ce <term ref="#caractère">caractère</term>-là
+                        <lb xml:id="pag_17_line_27" n="27" facs="#pag17_line27"/>
+                        est <term ref="#commun">commun</term> en revanche avec le <name type="place">Nord Est</name>
+                        <add>
+                            <note xml:id="pag_17_note_3" facs="#pag17_note3" n="3" resp="#FDS" place="margin">
+                                <name type="place">Gex</name>,la <name type="place">Franche Comté</name>, <name type="place">Paris</name>
+                            </note><!-- NOTA A MARGINE-->
+                        </add>
+                        <lb xml:id="pag_17_line_28" n="28" facs="#pag17_line28"/>
+                        du territoire, relie le <term ref="#savoyard" type="glottonimo">savoyard</term> avec le pays de
+                        </ab>
+            </div>
+            <div type="pagina" n="18">
+                <pb n="18" facs="#pag18_intera" />
+                    <ab type="pericope" xml:id="pag_18_per_1" n="1">
+                    <lb xml:id="pag_18_line_1" n="1" facs="#pag18_line1"/>
+                    <orig resp="#FDS">je chercheraia alors de</orig><reg>Je serai attentif alors à chercher des</reg> <term ref="#caractères">caractères</term> <choice><orig resp="#FDS"><abbr>+</abbr></orig><reg resp="#EF"><expan>plus</expan></reg></choice> <term ref="#locaux">locaux</term>;
+                    </ab>
+                    <ab type="pericope" xml:id="pag_18_per_2" n="2">
+                    <lb xml:id="pag_18_line_2" n="2" facs="#pag18_line2"/>
+                    je prendrai par <choice><orig resp="#FDS"><abbr>ex.</abbr></orig><reg resp="#EF"><expan><ex>emple</ex></expan></reg></choice> le fait du <term ref="#dal">déplacement
+                    <lb xml:id="pag_18_line_3" n="3" facs="#pag18_line3"/>
+                    de l'accent latin</term> <choice><orig resp="#FDS"><abbr>d</abbr></orig><reg resp="#EF"><expan><ex>ans</ex></expan></reg></choice>le <term ref="#patois">patois</term> <add><term ref="#savoyard" type="glottonimo"><choice><orig resp="#FDS"><abbr>sav.</abbr></orig><reg resp="#EF"><expan><ex>oyard</ex></expan></reg></choice></term></add>la <mentioned xml:id="sav4" xml:lang="savt" rend="underline">lná</mentioned>, la <mentioned xml:id="sav5" xml:lang="savt" rend="underline">spá;</mentioned>;
+                    <lb xml:id="pag_18_line_4" n="4" facs="#pag18_line4"/>
+                    mais je constate bientôt que ce <term ref="#phénomène">phénomène</term>
+                    <lb xml:id="pag_18_line_5" n="5" facs="#pag18_line5"/>
+                    d'une part n'atteint qu'une partie de la
+                    <lb xml:id="pag_18_line_6" n="6" facs="#pag18_line6"/>
+                    <name type="place">Savoie</name>, et que d'autre part il se retrouve
+                    <add>
+                        <note xml:id="pag_18_note_1" facs="#pag18_note1" n="1" resp="#FDS" place="margin">
+                            n'est donc pas <choice><orig resp="#FDS"><abbr>1</abbr></orig><reg resp="#EF"><expan>un</expan></reg></choice> <term ref="#caractère">caractère<choice><orig resp="#FDS"><abbr>car.</abbr></orig><reg resp="#EF"><expan><ex>actère</ex></expan></reg></choice></term> <term ref="#commun">commun</term>
+                        </note><!-- NOTA A MARGINE-->
+                    </add>
+                    <lb xml:id="pag_18_line_7" n="7" facs="#pag18_line7"/>
+                    en <name type="place">Valais</name> d'<choice><orig resp="#FDS"><abbr>1</abbr></orig><reg resp="#EF"><expan>une</expan></reg></choice> part et <choice><orig resp="#FDS"><abbr>d</abbr></orig><reg resp="#EF"><expan><ex>ans</ex></expan></reg></choice> la direction du
+                    <lb xml:id="pag_18_line_8" n="8" facs="#pag18_line8"/>
+                    <name type="place">Dauphiné</name> de l'autre;</ab><!--Aggiungi riga di Viola-->
+            </div>
+
+            <!-- Traduzione -->
+            <div type="traduzione" xml:lang="it" resp="#EF">
+                <div type="traduzione_pag_17">
+                        <ab corresp="#pag_17_per_1" n="1">
+                            Se questo principio può sembra
+                            
+                            +re di primo acchito 
+                            un po’ oscuro, diventerà immediatamente, 
+                            ne sono convinto, di una chiarezza[].
+                        </ab>
+                        <ab corresp="#pag_17_per_2" n="2">
+                            Allorché si cerca di tracciare sulla carta i limiti 
+                            di un dialetto <hi rend="italic">perfettamente conosciuto</hi>, si è 
+                            evidentemente obbligati a dire quali sono i caratteri 
+                            che si riconoscono come distintivi di questo dialetto 
+                            in rapporto ai dialetti <distinct>circonvicini</distinct>. Per esempio, se ammetto che esiste
+                        </ab>
+                        <ab corresp="#pag_17_per_3" n="3">
+                            Per esempio, 
+                            se ammetto che esiste un dialetto savoiardo, il mio 
+                            primo dovere è di stabilire in che cosa tale dialetto è 
+                            differente da ogni altro dialetto francese, <note corresp="pag_17_note_1">e d’altra 
+                            parte <hi rend="italic">uno</hi> in se stesso.</note> 
+                        </ab>
+                        <ab corresp="#pag_17_per_4" n="4">
+                            Mi accingo dunque  a
+                            mettermi alla ricerca di tali caratteri comuni di
+                            distinzione.
+                        </ab>
+                        <ab corresp="#pag_17_per_5" n="5">
+                            Posso immaginare anzitutto per
+                            esempio che la conservazione della <hi rend="italic">a</hi> finale atona
+                            latina come in <mentioned xml:id="trad_sav1" xml:lang="sav"><hi rend="italic">feña</hi></mentioned> “<gloss target="#trad_sav1" xml:lang="it">la donna</gloss>”, <mentioned xml:id="trad_sav2" xml:lang="sav">Q<hi rend="italic">enva</hi></mentioned> “<gloss target="#trad_sav2" xml:lang="it">Ginevra</gloss>”,
+                            che è un segno comune del dialetto savoiardo, è
+                            anche un segno distintivo dialettale ma, conducendo
+                            più avanti la mia osservazione, constaterò che ciò <!--da qui io -->è
+                            comune al dialetto savoiardo e a tutto il sud della Francia;
+                        </ab>
+                        <ab corresp="#pag_17_per_6" n="6">
+                            non vi è dunque alcun carattere
+                            distintivo.  
+                        </ab> 
+                        <ab corresp="#pag_17_per_7" n="7">
+                            Osservo allora che il sud della Francia
+                            non ha cambiato il gruppo <hi rend="italic">ca</hi> latino in <hi rend="italic">tša</hi>, <hi rend="italic">sa</hi> o
+                            altro, <hi rend="italic">canto</hi>, mentre in savoiardo c’è cambiamento
+                            <hi rend="italic">Qãtå</hi>;> 
+                        </ab>
+                        <ab corresp="#pag_17_per_8" n="8">
+                            tale carattere sarà migliore?
+                        </ab>
+                        <ab corresp="#pag_17_per_9" n="9">
+                            Per nulla,
+                            perché quel carattere, invece, è comune col nord-est
+                            del territorio, collega il savoiardo con il paese di <note corresp="pag_17_note_3">
+                            Gex, la Franca-Contea, Parigi.</note>
+                        </ab>
+                        <ab corresp="#pag_17_per_10" n="10">
+                        Mi dedicherò
+                        allora a cercare caratteri più locali;
+                        </ab>
+                        <ab corresp="#pag_17_per_11" n="11">
+                        prenderò per esempio il fatto dello spostamento dell’accento
+                        latino nel dialetto <hi rend="italic">[patois]</hi> savoiardo la <hi rend="italic">lná</hi>, la <hi rend="italic">spá</hi>,
+                        ma constato ben presto che tale fenomeno non
+                        concerne che una parte della Savoia,<note corresp="pag_18_note_1"> e non è dunque
+                        un carattere comune</note>, e d’altra parte si ritrova in
+                        Vallese da una parte e nella direzione del Delfinato
+                        dall’altra;
+                        </ab>
+                       
+
+                </div>
+            </div>
+        </body>
+
+        <!--CONTINUARE QUI-->
+                    <label>
+                        <term xml:id="commun" xml:lang="fr">Commun</term>
+                        <term ref="#comune" xml:lang="it">Comune</term>
+                    </label>
+                    <item>
+                        <gloss target="#commun" xml:lang="it" source="https://www.treccani.it/vocabolario/comune">
+                            Ciò che è accettato e seguito dai più
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="groupe" xml:lang="fr">Groupe</term>
+                        <term ref="#gruppo" xml:lang="it">Gruppo</term>
+                    </label>
+                    <item>
+                        <gloss target="#gruope" xml:lang="it" source="https://www.treccani.it/vocabolario/gruppo">
+                            Insieme di più cose o persone, distinte l’una dall’altra, ma riunite insieme in modo da formare un tutto
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="savoyard" xml:lang="fr">Savoyard</term>
+                        <term ref="#savoiardo" xml:lang="it">Savoiardo</term>
+                    </label>
+                    <item>
+                        <gloss target="#savoyard" xml:lang="it" source="https://www.treccani.it/vocabolario/savoiardo">
+                            Della Savoia, regione storica e geografica delle Alpi occidentali
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="caractère" xml:lang="fr">Caractère</term>
+                        <term ref="#caratteri" xml:lang="it">Caratteri</term>
+                    </label>
+                    <item>
+                        <gloss target="#caractère" xml:lang="it" source="https://www.treccani.it/vocabolario/carattere/">
+                            La forma delle lettere d’un alfabeto o dei segni d’una scrittura
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="locaux" xml:lang="fr">Locaux</term>
+                        <term ref="#locali" xml:lang="it">Locali</term>
+                    </label>
+                    <item>
+                        <gloss target="#locaux" xml:lang="it" source="https://www.treccani.it/vocabolario/locale1/">
+                           Che è proprio e particolare di un determinato luogo
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="dal" xml:lang="fr">déplacement de l’accent latin </term>
+                        <term ref="#dal" xml:lang="it">Spostamento dell'accento latino </term>
+                    </label>
+                    <item>
+                        <gloss target="#dal" xml:lang="it" source="https://www.treccani.it/vocabolario/spostamento">
+                            L’azione di spostare, il fatto di spostarsi e di venire spostato
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="patois" xml:lang="fr">Patois</term>
+                        <term ref="#dialetto" xml:lang="it">Dialetto</term>
+                    </label>
+                    <item>
+                        <gloss target="#patois" xml:lang="it" source="https://it.wikipedia.org/wiki/Carta">
+                            Il dialetto è un sistema linguistico adoperato in un ambito geografico limitato, che non ha raggiunto o che ha perduto diffusione e prestigio di fronte a un altro sistema linguistico diventato dominante e riconosciuto come ufficiale, cioè la lingua nazionale
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="phénomène" xml:lang="fr">Phénomène</term>
+                        <term ref="#fenomeno" xml:lang="it">Fenomeno</term>
+                    </label>
+                    <item>
+                        <gloss target="#phénomène" xml:lang="it" source="https://www.treccani.it/vocabolario/fenomeno">
+                            Sono fenomeni i fatti, gli eventi provocati o spontanei, ma comunque suscettibili di osservazione e di studio
+                        </gloss>
+                    </item>
+                </list>
